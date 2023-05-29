@@ -1,5 +1,5 @@
 # image_to_RGB565
-该仓库中的python脚本可以将普通图片批量转换为TFT_eSPI库所需要的RGB565格式。
+将jpg/png图片批量转换为TFT_eSPI库所需要的RGB565格式。
 
 ## 背景
 当使用TFT_eSPI库驱动TFT屏幕时,需要使用RGB565格式的图片,而普通的图片处理软件导出的图片格式通常是RGB888格式,不符合要求。
